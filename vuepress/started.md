@@ -29,12 +29,12 @@ code samples in the guide.
 const messages = {
   en: {
     message: {
-      hello: 'hello world'
+      hello: ''
     }
   },
   ja: {
     message: {
-      hello: 'こんにちは、世界'
+      hello: ''
     }
   }
 }
